@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grocery Vendor</string>
+    <string name="skip">Skip</string>
+    <string name="login">Login</string>
+    <string name="your_email">Your Email</string>
+    <string name="new_to_grocery">New to Grocery Vendor? Sign Up</string>
+    <string name="pswd">Your Password</string>
+    <string name="hello_user">Hello User!</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_contact">Your Contact</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_customer_login">Already a customer? Login</string>
+    <string name="otp">-</string>
+    <string name="verify_otp">Verify Otp</string>
+</resources>
